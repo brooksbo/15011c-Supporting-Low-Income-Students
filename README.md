@@ -14,4 +14,4 @@ More specifically:
 - Cleaning survey data from Qualtrics
 - Reshaping survey data for merging with student-level longitudinal data from the California Community College Chancellor's Office (CCCCO)
 
-Will link publication once published
+[Link to the published report!](https://www.ppic.org/wp-content/uploads/supporting-student-parents-in-community-college-calworks-programs-october-2020.pdf "Supporting Student Parents in Community College CalWORKs Programs")
